@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		Solution a = new Solution();
 		System.out.printf("ans = "+a.rangeBitwiseAnd(117, 118));
+        String b = "";
+        System.out.printf("ans = "+b.getClass().toString());
 	}
 
 }
